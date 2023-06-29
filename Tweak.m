@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 #import <objc/runtime.h>
 
-static NSString * const kRedditClientID = @"CLIENT_ID_GOES_HERE";
+static NSString * const kRedditClientID = @G_sE5FaB_pBdr436WATHYw;
 
 
 __attribute__ ((constructor)) static void init(void) {
